@@ -4,8 +4,10 @@ Time to put your newly learnt skills to work! By working on projects you would h
 
 In this section you get the chance to:
 
-* Build a Tribute Page
+* Build a Tribute Page ([objective](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) and [build](https://codepen.io/leopaul29/pen/bGBpBGM))
 * Build a Survey Form
 * Build a Product Landing Page
 * Build a Technical Documentation Page
 * Build a Personal Portfolio Webpage
+
+You can find my collection on [codepen.io](https://codepen.io/collection/nJqrxO)
